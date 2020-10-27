@@ -1,3 +1,5 @@
+# Please note that this project is not currently being maintained! It is kept for reference, but it is likely to have issues with current versions of JMeter and other libraries
+
 # lwm2m-jmeter
 
 This project is a plugin for [Apache JMeter](http://jmeter.apache.org/) that implements samplers and config elements for the [LightweightM2m protocol](http://openmobilealliance.org/iot/lightweight-m2m-lwm2m/). It allows JMeter threads to act as virtual LWM2M clients that can register, derregister and push observations to a LWM2M server.
